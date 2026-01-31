@@ -34,5 +34,5 @@ class InsertSubstring {
 
 
 ```
-# OUTPUT : 
+# OUTPUT: 
 ![OUTPUT  OF ADDITIONAL EXPERIMENT 1](ADD1.png)
